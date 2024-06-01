@@ -3,10 +3,9 @@
 <br/>
 <br/>
 
-With [The Weather Forecasting](https://ziontutorial.com/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+With [React Js Login ](https://ziontutorial.com/) Responsive Login Form using React Js.
 
-The user of [The Weather Forecasting](https://ziontutorial.com/) tool can look for destinations by city name and view the weather forecast for the next three hours, five to six days out.
-The app is created with material-UI and React.js.
+The user of [Responsive Login Form using](https://ziontutorial.com/) Responsive Login Form using react js
 
 <br />
 The app is developed using React.js.
@@ -22,18 +21,12 @@ https://ziontutorial.com/
 ## ✨ Getting Started
 
 - Make sure you already have `Node.js` and `npm` installed in your system.
-- You need an API key from [OpenWeatherMap](https://openweathermap.org/). After creating an account, [grab your key](https://home.openweathermap.org/api_keys).
 
 <br/>
 
 ## ⚡ Install
 
 - Clone the repository:
-
- @@ git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
-- Install the packages using the command `npm install`
-
 <br/>
 
 ## 📙 Used libraries
