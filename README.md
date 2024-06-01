@@ -1,4 +1,4 @@
-![Application screenshot](./public/react js login.png)
+![Application screenshot](./public/login.png)
 
 <br/>
 <br/>
