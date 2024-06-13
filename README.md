@@ -8,7 +8,7 @@ With [React Js Login ](https://ziontutorial.com/how-to-create-responsive-login-f
 The user of [Responsive Login Form using](https://ziontutorial.com/) Responsive Login Form using react js
 
 <br />
-The app is developed using React.js
+The app is developed using React.js.
 
 <br/>
 
